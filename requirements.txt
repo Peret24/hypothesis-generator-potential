@@ -1,0 +1,11 @@
+﻿openai
+qdrant-client
+langchain
+pypdf
+pandas
+streamlit
+plotly
+python-dotenv
+reportlab
+fastapi
+uvicorn
