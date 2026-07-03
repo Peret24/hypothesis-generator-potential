@@ -1,0 +1,10 @@
+openai
+qdrant-client
+langchain
+pypdf
+pandas
+streamlit
+plotly
+python-dotenv
+fastapi
+uvicorn
